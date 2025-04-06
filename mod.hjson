@@ -2,7 +2,22 @@ displayName: "UUID replacer"
 name: "URR"
 author: "obsidian"
 main: "URR.URRMod"
-description: "Replace your UUID on random when start game "
+description: "
+
+RU:
+Изменяет ваш UUID на рандомный при загрузке игры
+
+Используя эту модификацию, вы подтверждаете, что вы знаете последствия обхода запретов
+и берёте ответственность за свои действия, снимая отсветсвенность с автора мода.
+
+Создан для тестирования изменений настроек с помощью мода.
+ENG:
+Replace your UUID on random when start game
+
+By using this modification, you confirm that you are aware of the consequences of circumventing the prohibitions
+and take responsibility for your actions by removing the enlightenment from the author of the fashion.
+
+Designed to test the changes of settings with a mode."
 version: 1.0
 minGameVersion: 145
 java: true
